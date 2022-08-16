@@ -46,4 +46,4 @@ https://github.com/microverseinc/linters-config
 ## 📝 License
 
 This project is 
-[licensed](https://github.com/samuelmoiwa/Hello-Microverse-Project/blob/hello-microverse/license.txt) .
+[licensed](https://github.com/samuelmoiwa/Hello-Microverse/blob/Develop/MIT.md).
